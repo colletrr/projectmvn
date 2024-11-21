@@ -1,0 +1,13 @@
+{
+  "name": "redirect-app",
+  "version": "1.0.0",
+  "description": "A simple redirect app based on IPinfo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "node-fetch": "^3.3.2"
+  }
+}
